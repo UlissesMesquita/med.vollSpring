@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mde.voll</groupId>
-	<artifactId>api</artifactId>
+	<artifactId>volSpringApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>api</name>
 	<description>mde.voll</description>
